@@ -4,6 +4,7 @@ numpy
 pandas
 scipy
 lightfm
+pycryptodome
 pyrebase
 firebase_admin
 bson
